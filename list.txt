@@ -13,6 +13,8 @@ SiTV欢笑剧场 12M2160,http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224
 凤凰资讯 10M720,http://183.207.249.143/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰香港 10M1080,http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港 10M720,http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+CCTV1 Max16M1080,http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
+CCTV1 Max16M1080,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
 CCTV1 14M1080,http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221228245/index.m3u8
 CCTV1 3M1080,http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
 CCTV1 4.8M1080HEVC,http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8
@@ -29,8 +31,7 @@ CCTV1 8M1080,http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228049/i
 CCTV1 8M1080,http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228075/index.m3u8
 CCTV1 8M1080HEVC,http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 CCTV1 8M1080HEVC,http://223.110.236.53/ott.js.chinamobile.com/PLTV/3/224/3221228213/index.m3u8
-CCTV1 Max16M1080,http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
-CCTV1 Max16M1080,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
+
 CCTV2 12M1080,http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228094/index.m3u8
 CCTV2 14M1080,http://223.110.235.37/ott.js.chinamobile.com/PLTV/3/224/3221228248/index.m3u8
 CCTV2 3M1080,http://183.207.249.143/ott.js.chinamobile.com/PLTV/3/224/3221226993/index.m3u8
