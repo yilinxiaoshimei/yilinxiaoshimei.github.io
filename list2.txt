@@ -53,7 +53,7 @@ http://192.168.31.1:8225/rtp/239.77.1.33:5146
 #EXTINF:-1 tvg-name="IPTV" group-title="IPTV-所有频道",江苏卫视
 http://192.168.31.1:8225/rtp/239.77.1.18:5146
 #EXTINF:-1 tvg-name="IPTV" group-title="IPTV-所有频道",东方卫视
-http://192.168.31.1:8225/rtp/239.77.1.156:5146
+http://192.168.31.1:8225/rtp/239.77.0.98:5146
 #EXTINF:-1 tvg-name="IPTV" group-title="IPTV-所有频道",安徽卫视
 http://192.168.31.1:8225/rtp/239.77.1.92:5146
 #EXTINF:-1 tvg-name="IPTV" group-title="IPTV-所有频道",北京卫视
