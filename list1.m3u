@@ -60,7 +60,7 @@ http://192.168.31.1:8225/rtp/239.77.1.92:5146
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 http://192.168.31.1:8225/rtp/239.77.1.4:5146
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
-http://192.168.31.1:8225/rtp/239.77.0.131:5146
+http://192.168.31.1:8225/rtp/239.77.1.141:5146
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清
 http://192.168.31.1:8225/rtp/239.77.1.142:5146
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
