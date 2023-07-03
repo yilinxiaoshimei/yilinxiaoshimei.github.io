@@ -9,6 +9,24 @@ http://192.168.31.1:8225/rtp/239.77.0.173:5146
 http://192.168.31.1:8225/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
 http://192.168.31.1:8225/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",经济科教
+http://192.168.31.1:8225/rtp/239.77.0.167:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大湾区卫视
+http://192.168.31.1:8225/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方",广东影视高清
+http://192.168.31.1:8225/rtp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="地方",广东少儿高清
+http://192.168.31.1:8225/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通高清
+http://192.168.31.1:8225/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山综合高清
+http://192.168.31.1:8225/rtp/239.253.43.62:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山公共高清
+http://192.168.31.1:8225/rtp/239.253.43.63:5146
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="地方",广东综艺 4k
+http://192.168.31.1:8225/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南国都市
+http://192.168.31.1:8225/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.31.1:8225/rtp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
@@ -76,7 +94,7 @@ http://192.168.31.1:8225/rtp/239.77.0.124:5146
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清
 http://192.168.31.1:8225/rtp/239.77.1.221:5146
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
-http://192.168.31.1:8225/rtp/239.77.0.159:5146
+http://192.168.31.1:8225/rtp/239.77.1.215:5146
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
 http://192.168.31.1:8225/rtp/239.77.1.229:5146
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视高清
@@ -95,6 +113,14 @@ http://192.168.31.1:8225/rtp/239.77.1.111:5146
 http://192.168.31.1:8225/rtp/239.77.0.68:5146
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://192.168.31.1:8225/rtp/239.77.0.69:5146
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视其它",风云音乐高清
+http://192.168.31.1:8225/rtp/239.253.43.29:5146
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视其它",第一剧场高清
+http://192.168.31.1:8225/rtp/239.253.43.28:5146
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视其它",怀旧剧场高清
+http://192.168.31.1:8225/rtp/239.253.43.25:5146
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视其它",风云剧场高清
+http://192.168.31.1:8225/rtp/239.253.43.26:5146
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://192.168.31.1:8225/rtp/239.77.0.70:5146
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
@@ -121,20 +147,6 @@ http://192.168.31.1:8225/rtp/239.77.0.10:5146
 http://192.168.31.1:8225/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",求索生活
 http://192.168.31.1:8225/rtp/239.77.0.153:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",经济科教
-http://192.168.31.1:8225/rtp/239.77.0.167:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大湾区卫视
-http://192.168.31.1:8225/rtp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方",广东影视高清
-http://192.168.31.1:8225/rtp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="地方",广东少儿高清
-http://192.168.31.1:8225/rtp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通高清
-http://192.168.31.1:8225/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山综合高清
-http://192.168.31.1:8225/rtp/239.253.43.62:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山公共高清
-http://192.168.31.1:8225/rtp/239.253.43.63:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山教育高清
 http://192.168.31.1:8225/rtp/239.253.43.64:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
@@ -147,24 +159,13 @@ http://192.168.31.1:8225/rtp/239.77.0.18:5146
 http://192.168.31.1:8225/rtp/239.77.0.20:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="地方",广东综艺 4K
 http://192.168.31.1:8225/rtp/239.77.1.236:5146
-#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="地方",广东综艺 4k
-http://192.168.31.1:8225/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南国都市
-http://192.168.31.1:8225/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视其它",风云足球高清
 http://192.168.31.1:8225/rtp/239.253.43.20:5146
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视其它",高尔夫网球高清
 http://192.168.31.1:8225/rtp/239.253.43.22:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视其它",央视文化精品高清
 http://192.168.31.1:8225/rtp/239.253.43.27:5146
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视其它",风云音乐高清
-http://192.168.31.1:8225/rtp/239.253.43.29:5146
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视其它",第一剧场高清
-http://192.168.31.1:8225/rtp/239.253.43.28:5146
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视其它",怀旧剧场高清
-http://192.168.31.1:8225/rtp/239.253.43.25:5146
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视其它",风云剧场高清
-http://192.168.31.1:8225/rtp/239.253.43.26:5146
+
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视其它",世界地理高清
 http://192.168.31.1:8225/rtp/239.253.43.24:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视指南高清
