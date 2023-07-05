@@ -1,32 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://192.168.31.1:8225/rtp/239.77.0.166:5146
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江
 http://192.168.31.1:8225/rtp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",广东新闻高清
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东",广东新闻高清
 http://192.168.31.1:8225/rtp/239.77.0.173:5146
-#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="地方",广东公共高清
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东",广东公共高清
 http://192.168.31.1:8225/rtp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东",广东体育
 http://192.168.31.1:8225/rtp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",经济科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",经济科教
 http://192.168.31.1:8225/rtp/239.77.0.167:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",大湾区卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",大湾区卫视
 http://192.168.31.1:8225/rtp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方",广东影视高清
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东",广东影视高清
 http://192.168.31.1:8225/rtp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="地方",广东少儿高清
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="广东",广东少儿高清
 http://192.168.31.1:8225/rtp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通高清
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="广东",嘉佳卡通高清
 http://192.168.31.1:8225/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山综合高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",中山综合高清
 http://192.168.31.1:8225/rtp/239.253.43.62:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山公共高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",中山公共高清
 http://192.168.31.1:8225/rtp/239.253.43.63:5146
-#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="地方",广东综艺 4k
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="广东",广东综艺 4k
 http://192.168.31.1:8225/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南国都市
-http://192.168.31.1:8225/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.31.1:8225/rtp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
@@ -151,6 +149,8 @@ http://192.168.31.1:8225/rtp/239.77.0.152:5146
 http://192.168.31.1:8225/rtp/239.77.0.10:5146
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
 http://192.168.31.1:8225/rtp/239.77.0.21:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",南国都市
+http://192.168.31.1:8225/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",求索生活
 http://192.168.31.1:8225/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中山教育高清
