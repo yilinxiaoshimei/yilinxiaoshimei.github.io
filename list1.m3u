@@ -345,3 +345,31 @@ http://192.168.31.1:8225/rtp/239.77.1.232:5146
 http://192.168.31.1:8225/rtp/239.77.1.233:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="北京卫视"tvg-logo="" group-title="北京",BRTV北京卫视[高清]
+http://124.65.3.143:20000/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-name="BTV新闻"tvg-logo="" group-title="北京",BRTV新闻[高清]
+http://124.65.3.143:20000/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV影视"tvg-logo="" group-title="北京",BRTV影视[高清]
+http://124.65.3.143:20000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV文艺"tvg-logo="" group-title="北京",BRTV文艺[高清]
+http://124.65.3.143:20000/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV财经"tvg-logo="" group-title="北京",BRTV财经[高清]
+http://124.65.3.143:20000/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活"tvg-logo="" group-title="北京",BRTV生活[高清]
+http://124.65.3.143:20000/rtp/239.3.1.117:8000
+# #EXTINF:-1 tvg-name="BTV青年"tvg-logo="" group-title="北京",BRTV青年[高清]
+http://124.65.3.143:20000/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="4K超清"tvg-logo="" group-title="北京",4K超清[超清]
+http://124.65.3.143:20000/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="淘电影"tvg-logo="" group-title="北京",淘电影[高清]
+http://124.65.3.143:20000/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="淘剧场"tvg-logo="" group-title="北京",淘剧场[高清]
+http://124.65.3.143:20000/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-name="淘娱乐"tvg-logo="" group-title="北京",淘娱乐[高清]
+http://124.65.3.143:20000/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="淘Baby"tvg-logo="" group-title="北京",淘Baby[高清]
+http://124.65.3.143:20000/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-name="萌宠TV"tvg-logo="" group-title="北京",萌宠TV[高清]
+http://124.65.3.143:20000/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-name="爱上4K"tvg-logo="" group-title="北京",爱上4K[超清]
+http://124.65.3.143:20000/rtp/239.3.1.236:2000
