@@ -139,7 +139,7 @@ http://192.168.31.1:8225/rtp/239.77.0.75:5146
 http://192.168.31.1:8225/rtp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.31.1:8225/rtp/239.77.0.77:5146
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="北京",厦门卫视
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://192.168.31.1:8225/rtp/239.77.0.96:5146
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://192.168.31.1:8225/rtp/239.77.0.152:5146
@@ -373,3 +373,17 @@ http://124.65.3.143:20000/rtp/239.3.1.238:8001
 http://124.65.3.143:20000/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-name="爱上4K"tvg-logo="" group-title="北京",爱上4K[超清]
 http://124.65.3.143:20000/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="BestTV 4K"tvg-logo="" group-title="4K",BestTV 4K
+http://116.232.113.69:4022/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-name="欢笑剧场 4K"tvg-logo="" group-title="4K",欢笑剧场 4K
+http://116.232.113.69:4022/udp/239.45.1.4:5140
+#EXTINF:-1 tvg-name="BestTV 1 4K"tvg-logo="" group-title="4K",BestTV 1 4K
+http://116.232.113.69:4022/udp/239.45.1.11:5140
+#EXTINF:-1 tvg-name="BestTV 2 4K"tvg-logo="" group-title="4K",BestTV 2 4K
+http://116.232.113.69:4022/udp/239.45.1.108:5140
+#EXTINF:-1 tvg-name="BestTV 2 4K"tvg-logo="" group-title="4K",BestTV 3 4K
+http://116.232.113.69:4022/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="" group-title="凤凰",凤凰中文
+http://183.144.80.224:8888/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="" group-title="凤凰",凤凰资讯
+http://183.144.80.224:8888/rtp/233.50.200.192:5140
