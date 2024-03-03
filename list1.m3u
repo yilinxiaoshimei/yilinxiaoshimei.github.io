@@ -57,7 +57,7 @@ http://192.168.31.1:8225/rtp/239.77.1.239:5146
 http://192.168.31.1:8225/rtp/239.77.1.76:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
 http://192.168.31.1:8225/rtp/239.77.0.198:5146
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" group-title="央视",CCTV-4K
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://192.168.31.1:8225/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://192.168.31.1:8225/rtp/239.77.0.27:5146
