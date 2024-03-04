@@ -1,823 +1,393 @@
 #EXTM3U
-#EXTINF:-1,�㶫����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.2:5146
-#EXTINF:-1,�㶫����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.19:5146
-#EXTINF:-1,�㶫����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.152:5146
-#EXTINF:-1,�㶫����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.84:5146
-#EXTINF:-1,�㶫���ӳ���(1920x1080)
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.166:5146
-#EXTINF:-1,�㶫�齭(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.3:5146
-#EXTINF:-1,�㶫�齭(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.94:5146
-#EXTINF:-1,�㶫�齭(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.1:5146
-#EXTINF:-1,�㶫�齭����(1920x1080)
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.114:5146
-#EXTINF:-1,�㶫����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.4:5146
-#EXTINF:-1,�㶫����(1920x1080)
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东",广东新闻高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.173:5146
-#EXTINF:-1,�㶫����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.5:5146
-#EXTINF:-1,�㶫����(1920x1080)
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东",广东公共高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.225:5146
-#EXTINF:-1,�㶫����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.6:5146
-#EXTINF:-1,�㶫����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.97:5146
-#EXTINF:-1,�㶫����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.112:5146
-#EXTINF:-1,�㶫��������(1920x1080)
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东",广东体育高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.168:5146
-#EXTINF:-1,���ÿƽ�(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.8:5146
-#EXTINF:-1,���ÿƽ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.85:5146
-#EXTINF:-1,���ÿƽ̳���(1920x1080)
+#EXTINF:-1  tvg-id="广东经济科教" group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",广东经济科教高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.167:5146
-#EXTINF:-1,����������(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.9:5146
-#EXTINF:-1,����������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.12:5146
-#EXTINF:-1,����������(1920x1080)
+#EXTINF:-1 tvg-id="" tvg-name="大亚湾卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.215:5146
-#EXTINF:-1,�㶫Ӱ��(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.11:5146
-#EXTINF:-1,�㶫Ӱ��(1920x1080)
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东",广东影视高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.217:5146
-#EXTINF:-1,�㶫�ٶ�(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.12:5146
-#EXTINF:-1,�㶫�ٶ�(1920x1080)
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="广东",广东少儿高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.250:5146
-#EXTINF:-1,�μѿ�ͨ(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.13:5146
-#EXTINF:-1,�μѿ�ͨ(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.15:5146
-#EXTINF:-1,�μѿ�ͨ(1920x1080)
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东",嘉佳卡通高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.179:5146
-#EXTINF:-1,�Ϸ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.19:5146
-#EXTINF:-1,�Ϸ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.22:5146
-#EXTINF:-1,����Ϸ��(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.16:5146
-#EXTINF:-1,����Ϸ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.122:5146
-#EXTINF:-1,�㶫����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.14:5146
-#EXTINF:-1,�ִ�����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.18:5146
-#EXTINF:-1,�ִ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.213:5146
-#EXTINF:-1,�㶫�ƶ�(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.20:5146
-#EXTINF:-1,�㶫4K������(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.237:5146
-#EXTINF:-1,�㶫4K������(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.244:5146
-#EXTINF:-1,�㶫4K������(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.245:5146
-#EXTINF:-1,�㶫4K������(3840x2160) ��ɫ�� (AVS2)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.252:5146
-#EXTINF:-1,�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.71:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.72:5146
-#EXTINF:-1,����Ӱ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.73:5146
-#EXTINF:-1,���ݷ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.74:5146
-#EXTINF:-1,�Ϲ����� 4K(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.99:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.3:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.148:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.92:5146
-#EXTINF:-1,�������ӳ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.130:5146
-#EXTINF:-1,���ڶ���Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.176:5146
-#EXTINF:-1,���ڶ���Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.124:5146
-#EXTINF:-1,���ڵ��Ӿ�Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.177:5146
-#EXTINF:-1,���ڵ��Ӿ�Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.125:5146
-#EXTINF:-1,���ڲƾ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.242:5146
-#EXTINF:-1,��������Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.243:5146
-#EXTINF:-1,������������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.128:5146
-#EXTINF:-1,������������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.140:5146
-#EXTINF:-1,�����ٶ�Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.244:5146
-#EXTINF:-1,���ڹ���Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.178:5146
-#EXTINF:-1,���ڹ���Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.126:5146
-#EXTINF:-1,���ڱ���Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.67:5146
-#EXTINF:-1,���ڱ�����һ��(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.225:5146
-#EXTINF:-1,��������Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.223:5146
-#EXTINF:-1,�����ڴ�TV(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.247:5146
-#EXTINF:-1,�����ƶ�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.175:5146
-#EXTINF:-1,�����˺͹���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.87:5146
-#EXTINF:-1,�ع������ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.117:5146
-#EXTINF:-1,տ�������ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.141:5146
-#EXTINF:-1,տ������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.140:5146
-#EXTINF:-1,�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.229:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.251:5146
-#EXTINF:-1,��β�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.25:5146
-#EXTINF:-1,��β�Ļ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.187:5146
-#EXTINF:-1,�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.201:5146
-#EXTINF:-1,������������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.202:5146
-#EXTINF:-1,HZTV-1(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.154:5146
-#EXTINF:-1,HZTV-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.232:5146
-#EXTINF:-1,HZTV-2(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.173:5146
-#EXTINF:-1,HZTV-2(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.233:5146
-#EXTINF:-1,�麣-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.155:5146
-#EXTINF:-1,�麣-2(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.154:5146
-#EXTINF:-1,�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.1:5146
-#EXTINF:-1,�����������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.2:5146
-#EXTINF:-1,��Դ�ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.213:5146
-#EXTINF:-1,��Դ����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.214:5146
-#EXTINF:-1,��Զ�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.33:5146
-#EXTINF:-1,��Զ��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.34:5146
-#EXTINF:-1,�Ƹ��ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.253:5146
-#EXTINF:-1,�Ƹ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.254:5146
-#EXTINF:-1,ï���ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.206:5146
-#EXTINF:-1,ï������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.207:5146
-#EXTINF:-1,��ͷ�ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.130:5146
-#EXTINF:-1,��ͷ�ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.45:5146
-#EXTINF:-1,��ͷ��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.131:5146
-#EXTINF:-1,��ͷ��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.46:5146
-#EXTINF:-1,��ͷ��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.132:5146
-#EXTINF:-1,��ͷ��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.47:5146
-#EXTINF:-1,��ɽ����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.53:5146
-#EXTINF:-1,��ɽ�Ϻ�(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.236:5146
-#EXTINF:-1,��ɽ�Ϻ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.54:5146
-#EXTINF:-1,��ɽ˳��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.55:5146
-#EXTINF:-1,��ɽӰ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.56:5146
-#EXTINF:-1,��ɽ�ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.57:5146
-#EXTINF:-1,��ݸ�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.104:5146
-#EXTINF:-1,��ݸ������Ѷ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.105:5146
-#EXTINF:-1,��ɽ�ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.62:5146
-#EXTINF:-1,��ɽ�Ļ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.63:5146
-#EXTINF:-1,�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.70:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.75:5146
-#EXTINF:-1,�����ۺ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.112:5146
-#EXTINF:-1,÷��-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.123:5146
-#EXTINF:-1,�ͼ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.124:5146
-#EXTINF:-1,CCTV-1�ۺ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.30:5146
-#EXTINF:-1,CCTV-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.241:5146
-#EXTINF:-1,CCTV-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.17:5146
-#EXTINF:-1,CCTV-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.144:5146
-#EXTINF:-1,CCTV-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.86:5146
-#EXTINF:-1,CCTV-1����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.129:5146
-#EXTINF:-1,CCTV-2�ƾ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.31:5146
-#EXTINF:-1,CCTV-2(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.158:5146
-#EXTINF:-1,CCTV-2(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.17:5146
-#EXTINF:-1,CCTV -2�ƾ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.137:5146
-#EXTINF:-1,CCTV-3����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.32:5146
-#EXTINF:-1,CCTV-3(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.169:5146
-#EXTINF:-1,CCTV-3����(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.175:5146
-#EXTINF:-1,CCTV-4���Ĺ���(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.33:5146
-#EXTINF:-1,CCTV-4(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.163:5146
-#EXTINF:-1,CCTV-4(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.166:5146
-#EXTINF:-1,CCTV-4(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.78:5146
-#EXTINF:-1,CCTV-4����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.121:5146
-#EXTINF:-1,CCTV-4ŷ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.120:5146
-#EXTINF:-1,CCTV-5����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.34:5146
-#EXTINF:-1,CCTV-5(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.170:5146
-#EXTINF:-1,CCTV-5����(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.177:5146
-#EXTINF:-1,CCTV-5+(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.87:5146
-#EXTINF:-1,CCTV-5+(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.31:5146
-#EXTINF:-1,CCTV-6��Ӱ(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.35:5146
-#EXTINF:-1,CCTV-6(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.171:5146
-#EXTINF:-1,CCTV-6����(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.178:5146
-#EXTINF:-1,CCTV-7��������(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.36:5146
-#EXTINF:-1,CCTV-7(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.159:5146
-#EXTINF:-1,CCTV-7(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.167:5146
-#EXTINF:-1,CCTV -7����ũҵ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.138:5146
-#EXTINF:-1,CCTV-8���Ӿ�(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.37:5146
-#EXTINF:-1,CCTV-8(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.172:5146
-#EXTINF:-1,CCTV-8����(1920x1080) (CAVS)(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.181:5146
-#EXTINF:-1,CCTV-9��¼(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.38:5146
-#EXTINF:-1,CCTV-9(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.160:5146
-#EXTINF:-1,CCTV-9(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.168:5146
-#EXTINF:-1,CCTV-9(1920x1080)����
-http://lsk.dscloud.biz:8225/rtp/239.77.0.135:5146
-#EXTINF:-1,CCTV-10�ƽ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.39:5146
-#EXTINF:-1,CCTV-10(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.113:5146
-#EXTINF:-1,CCTV-10(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.169:5146
-#EXTINF:-1,CCTV-10�ƽ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.134:5146
-#EXTINF:-1,CCTV-11Ϸ��(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.40:5146
-#EXTINF:-1,CCTV-11(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.42:5146
-#EXTINF:-1,CCTV-11(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.238:5146
-#EXTINF:-1,CCTV-12����뷨(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.41:5146
-#EXTINF:-1,CCTV-12(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.109:5146
-#EXTINF:-1,CCTV-12(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.170:5146
-#EXTINF:-1,CCTV-12(1920x1080)����
-http://lsk.dscloud.biz:8225/rtp/239.77.0.136:5146
-#EXTINF:-1,CCTV-13����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.42:5146
-#EXTINF:-1,CCTV-13(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.188:5146
-#EXTINF:-1,CCTV-13(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.196:5146
-#EXTINF:-1,CCTV-14�ٶ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.43:5146
-#EXTINF:-1,CCTV-14(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.161:5146
-#EXTINF:-1,CCTV-14(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.171:5146
-#EXTINF:-1,CCTV-14(1920x1080)����
-http://lsk.dscloud.biz:8225/rtp/239.77.0.133:5146
-#EXTINF:-1,CCTV-15����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.44:5146
-#EXTINF:-1,CCTV-15(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.11:5146
-#EXTINF:-1,CCTV-15(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.239:5146
-#EXTINF:-1,CCTV-16(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.165:5146
-#EXTINF:-1,CCTV-16(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.76:5146
-#EXTINF:-1,CCTV-16 4K(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.98:5146
-#EXTINF:-1,CCTV-17ũҵ(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.115:5146
-#EXTINF:-1,CCTV-17(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.121:5146
-#EXTINF:-1,CCTV-17ũҵ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.198:5146
-#EXTINF:-1,CCTV-4K(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.194:5146
-#EXTINF:-1,CCTV-4K(3840x2160)50p
-http://lsk.dscloud.biz:8225/rtp/239.77.0.174:5146
-#EXTINF:-1,CCTV-4K(3840x2160)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.180:5146
-#EXTINF:-1,CCTV-8K
-http://lsk.dscloud.biz:8225/rtp/239.253.43.106:5146
-#EXTINF:-1,CGTN(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.45:5146
-#EXTINF:-1,CGTN(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.27:5146
-#EXTINF:-1,CGTNӢ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.199:5146
-#EXTINF:-1,CGTN��¼(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.122:5146
-#EXTINF:-1,CGTN��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.221:5146
-#EXTINF:-1,CGTN����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.228:5146
-#EXTINF:-1,CGTN��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.200:5146
-#EXTINF:-1,CGTN����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.201:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.5:5146
-#EXTINF:-1,��������(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.129:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.88:5146
-#EXTINF:-1,�������ӳ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.127:5146
-#EXTINF:-1,�㽭����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.33:5146
-#EXTINF:-1,�㽭����(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.150:5146
-#EXTINF:-1,�㽭����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.89:5146
-#EXTINF:-1,�㽭���ӳ���(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.125:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.18:5146
-#EXTINF:-1,��������(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.149:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.90:5146
-#EXTINF:-1,�������ӳ���(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.126:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.218:5146
-#EXTINF:-1,��������(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.156:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.98:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.92:5146
-#EXTINF:-1,��������(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.157:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.183:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.4:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.151:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.91:5146
-#EXTINF:-1,�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.141:5146
-#EXTINF:-1,�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.182:5146
-#EXTINF:-1,�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.97:5146
-#EXTINF:-1,������ӳ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.131:5146
-#EXTINF:-1,ɽ������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.142:5146
-#EXTINF:-1,ɽ������(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.153:5146
-#EXTINF:-1,ɽ������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.94:5146
-#EXTINF:-1,ɽ�����ӳ���(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.132:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.219:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.149:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.93:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.174:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.95:5146
-#EXTINF:-1,�������ӳ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.128:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.103:5146
-#EXTINF:-1,�������� (1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.123:5146
-#EXTINF:-1,�������ӳ���(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.161:5146
-#EXTINF:-1,����������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.6:5146
-#EXTINF:-1,����������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.179:5146
-#EXTINF:-1,����������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.93:5146
-#EXTINF:-1,���������ӳ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.124:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.221:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.230:5146
-#EXTINF:-1,�Ĵ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.215:5146
-#EXTINF:-1,�Ĵ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.159:5146
-#EXTINF:-1,�Ĵ����ӳ���(1920x1080) (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.163:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.229:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.17:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.37:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.100:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.162:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.182:5146
-#EXTINF:-1,�ӱ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.214:5146
-#EXTINF:-1,�ӱ�����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.148:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.104:5146
-#EXTINF:-1,������������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.146:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.36:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.139:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.111:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.150:5146
-#EXTINF:-1,��������(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.68:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.54:5146
-#EXTINF:-1,ɽ������(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.69:5146
-#EXTINF:-1,ɽ������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.74:5146
-#EXTINF:-1,���ɹ�����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.70:5146
-#EXTINF:-1,���ɹ�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.55:5146
-#EXTINF:-1,�ຣ����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.71:5146
-#EXTINF:-1,�ຣ����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.70:5146
-#EXTINF:-1,�ຣ����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.125:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.35:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.101:5146
-#EXTINF:-1,��������(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.73:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.47:5146
-#EXTINF:-1,��������(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.74:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.49:5146
-#EXTINF:-1,�½�����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.75:5146
-#EXTINF:-1,�½�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.53:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.57:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.189:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.77:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.80:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.96:5146
-#EXTINF:-1,��ɳ����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.117:5146
-#EXTINF:-1,��ɳ����(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.113:5146
-#EXTINF:-1,�����ӱ�����(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.10:5146
-#EXTINF:-1,�ӱ�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.99:5146
-#EXTINF:-1,�����Ƽ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.18:5146
-#EXTINF:-1,�����Ƽ�(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.9:5146
-#EXTINF:-1,����ָ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.19:5146
-#EXTINF:-1,����ָ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.10:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.20:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.14:5146
-#EXTINF:-1,����̨��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.21:5146
-#EXTINF:-1,����̨��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.11:5146
-#EXTINF:-1,�߶�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.22:5146
-#EXTINF:-1,�߶�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.12:5146
-#EXTINF:-1,Ů��ʱ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.23:5146
-#EXTINF:-1,Ů��ʱ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.8:5146
-#EXTINF:-1,�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.24:5146
-#EXTINF:-1,�������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.7:5146
-#EXTINF:-1,���ɾ糡(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.25:5146
-#EXTINF:-1,���ɾ糡(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.5:5146
-#EXTINF:-1,���ƾ糡(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.26:5146
-#EXTINF:-1,���ƾ糡(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.16:5146
-#EXTINF:-1,�����Ļ���Ʒ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.27:5146
-#EXTINF:-1,�����Ļ���Ʒ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.13:5146
-#EXTINF:-1,��һ�糡(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.28:5146
-#EXTINF:-1,��һ�糡(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.15:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.29:5146
-#EXTINF:-1,��������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.6:5146
-#EXTINF:-1,�Ϲ���(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.220:5146
-#EXTINF:-1,�Ϲ���(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.197:5146
-#EXTINF:-1,��ѧ��(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.195:5146
-#EXTINF:-1,����֮��(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.112:5146
-#EXTINF:-1,CHC�����Ӱ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.27:5146
-#EXTINF:-1,�����ٶ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.79:5146
-#EXTINF:-1,�����ٶ�(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.50:5146
-#EXTINF:-1,��ӥ��ͨ(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.80:5146
-#EXTINF:-1,��ӥ��ͨ(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.52:5146
-#EXTINF:-1,��ӥ��ͨ(1920x1080)
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://lsk.dscloud.biz:8225/rtp/239.77.0.164:5146
-#EXTINF:-1,�����Ŷ�(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.81:5146
-#EXTINF:-1,�����Ŷ�(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.139:5146
-#EXTINF:-1,������ͨ(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.222:5146
-#EXTINF:-1,������ͨ(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.79:5146
-#EXTINF:-1,CETV-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.222:5146
-#EXTINF:-1,�й�����-1(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.200:5146
-#EXTINF:-1,CETV-2(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.28:5146
-#EXTINF:-1,CETV-2(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.69:5146
-#EXTINF:-1,CETV-4(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.200:5146
-#EXTINF:-1,CETV-4(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.40:5146
-#EXTINF:-1,CETV-4(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.114:5146
-#EXTINF:-1,���ڽ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.180:5146
-#EXTINF:-1,ɽ������(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.83:5146
-#EXTINF:-1,ɽ����������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.35:5146
-#EXTINF:-1,�Ƹ�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.113:5146
-#EXTINF:-1,�Ƹ�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.81:5146
-#EXTINF:-1,�й���ͨ(1920x1080)
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="广东",广东综艺 4k
+http://lsk.dscloud.biz:8225/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东",南国都市
+http://lsk.dscloud.biz:8225/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.129:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.137:5146
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.169:5146
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.163:5146
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.170:5146
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.171:5146
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.138:5146
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.172:5146
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.135:5146
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.134:5146
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.238:5146
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.136:5146
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.188:5146
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.133:5146
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.239:5146
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.76:5146
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.198:5146
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
+http://lsk.dscloud.biz:8225/rtp/239.77.0.194:5146
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://lsk.dscloud.biz:8225/rtp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.127:5146
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.33:5146
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.18:5146
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.218:5146
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.92:5146
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.4:5146
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.141:5146
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.142:5146
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.219:5146
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.130:5146
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.128:5146
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.103:5146
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.124:5146
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.221:5146
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.215:5146
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.229:5146
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.37:5146
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.162:5146
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.214:5146
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.104:5146
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.36:5146
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.111:5146
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.125:5146 
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.113:5146
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.35:5146
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通
 http://lsk.dscloud.biz:8225/rtp/239.77.1.249:5146
-#EXTINF:-1,�й�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.143:5146
-#EXTINF:-1,��Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.15:5146
-#EXTINF:-1,��Ƶ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.207:5146
-#EXTINF:-1,���ִ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.145:5146
-#EXTINF:-1,���ִ���(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.119:5146
-#EXTINF:-1,��ӥ��ʵ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.217:5146
-#EXTINF:-1,��ӥ��ʵ(1920x1080)����
-http://lsk.dscloud.biz:8225/rtp/239.77.0.160:5146
-#EXTINF:-1,��ӥ��ʵ����(1920x1080)���� (CAVS)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.162:5146
-#EXTINF:-1,�Ϻ���ʵ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.216:5146
-#EXTINF:-1,�Ϻ���ʵ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.147:5146
-#EXTINF:-1,�������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.198:5146
-#EXTINF:-1,�黭Ƶ��(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.115:5146
-#EXTINF:-1,���ű���(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.193:5146
-#EXTINF:-1,���ű���(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.39:5146
-#EXTINF:-1,�л��ز�(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.204:5146
-#EXTINF:-1,�ĺ�����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.137:5146
-#EXTINF:-1,��������(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.202:5146
-#EXTINF:-1,��̬����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.201:5146
-#EXTINF:-1,��̬����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.42:5146
-#EXTINF:-1,����Ƶ��(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.203:5146
-#EXTINF:-1,����Ƶ��(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.41:5146
-#EXTINF:-1,�¶���(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.136:5146
-#EXTINF:-1,������¼(1920x1080)
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.68:5146
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.69:5146
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视其它",风云音乐高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.29:5146
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视其它",第一剧场高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.28:5146
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视其它",怀旧剧场高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.25:5146
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视其它",风云剧场高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.26:5146
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.70:5146
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.73:5146
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.74:5146
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.75:5146
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.77:5146
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.96:5146
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
+http://lsk.dscloud.biz:8225/rtp/239.77.0.10:5146
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
 http://lsk.dscloud.biz:8225/rtp/239.77.0.21:5146
-#EXTINF:-1,��������(1920x1080)
+#EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东",南国都市
+http://lsk.dscloud.biz:8225/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="地方",求索生活
 http://lsk.dscloud.biz:8225/rtp/239.77.0.153:5146
-#EXTINF:-1,��԰Ƶ��(1920x1080)
+#EXTINF:-1 tvg-id="" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="广东",中山综合高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.62:5146
+#EXTINF:-1 tvg-id="" tvg-name="香山文化" tvg-logo="https://epg.112114.xyz/logo/香山文化.png" group-title="广东",香山文化高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.63:5146
+#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="广东",岭南戏曲
+http://lsk.dscloud.biz:8225/rtp/239.77.0.122:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东房产" tvg-logo="https://epg.112114.xyz/logo/广东房产.png" group-title="广东",广东房产
+http://lsk.dscloud.biz:8225/rtp/239.77.0.14:5146
+#EXTINF:-1 tvg-id="" tvg-name="现代教育" tvg-logo="https://epg.112114.xyz/logo/现代教育.png" group-title="广东",现代教育
+http://lsk.dscloud.biz:8225/rtp/239.77.0.18:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" group-title="广东",广东移动
+http://lsk.dscloud.biz:8225/rtp/239.77.0.20:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
+http://lsk.dscloud.biz:8225/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="广东",广东综艺 4K
+http://lsk.dscloud.biz:8225/rtp/239.77.1.236:5146
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视其它",风云足球高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.20:5146
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视其它",高尔夫网球高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.22:5146
+#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="央视其它",央视文化精品高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.27:5146
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视其它",世界地理高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.24:5146
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="央视其它",电视指南高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.19:5146
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视其它",兵器科技高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.18:5146
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视其它",女性时尚高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.23:5146
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视其它",央视台球高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿",卡酷少儿
+http://lsk.dscloud.biz:8225/rtp/239.77.0.79:5146
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动
+http://lsk.dscloud.biz:8225/rtp/239.77.0.81:5146
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
+http://lsk.dscloud.biz:8225/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",早期教育高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.180:5146
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="地方",CETV-1高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.222:5146
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="地方",CETV-4高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.200:5146
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园频道高清
 http://lsk.dscloud.biz:8225/rtp/239.77.1.100:5146
-#EXTINF:-1,��������(1920x1080)
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",武术世界高清
 http://lsk.dscloud.biz:8225/rtp/239.77.1.108:5146
-#EXTINF:-1,���ﱦ��(1920x1080)
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库高清
 http://lsk.dscloud.biz:8225/rtp/239.77.1.120:5146
-#EXTINF:-1,��ѧƵ��(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.226:5146
-#EXTINF:-1,��ѧƵ��(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.105:5146
-#EXTINF:-1,�ȷ�ƹ��(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.208:5146
-#EXTINF:-1,��Ħ(1024x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.209:5146
-#EXTINF:-1,��Ħ(1047x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.205:5146
-#EXTINF:-1,��ԪΧ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.98:5146
-#EXTINF:-1,֤ȯ����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.135:5146
-#EXTINF:-1,֤ȯ����(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.58:5146
-#EXTINF:-1,IPTV1(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.75:5146
-#EXTINF:-1,IPTV2(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.63:5146
-#EXTINF:-1,������(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.107:5146
-#EXTINF:-1,������(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.78:5146
-#EXTINF:-1,IPTV3(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.64:5146
-#EXTINF:-1,IPTV4(785x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.56:5146
-#EXTINF:-1,������(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.108:5146
-#EXTINF:-1,������(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.77:5146
-#EXTINF:-1,������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.176:5146
-#EXTINF:-1,������(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.116:5146
-#EXTINF:-1,����Ӱ(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.103:5146
-#EXTINF:-1,����Ӱ(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.138:5146
-#EXTINF:-1,�����(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.105:5146
-#EXTINF:-1,�����(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.82:5146
-#EXTINF:-1,IPTV��ս�糡(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.99:5146
-#EXTINF:-1,IPTV��ս�糡(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.83:5146
-#EXTINF:-1,IPTV����СƷ(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.100:5146
-#EXTINF:-1,IPTV����СƷ(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.84:5146
-#EXTINF:-1,IPTVҰ��(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.101:5146
-#EXTINF:-1,IPTVҰ��(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.85:5146
-#EXTINF:-1,IPTV����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.102:5146
-#EXTINF:-1,IPTV����(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.86:5146
-#EXTINF:-1,����ʱ��(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.110:5146
-#EXTINF:-1,IPTV����ʱ��(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.88:5146
-#EXTINF:-1,�����Ӱ(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.104:5146
-#EXTINF:-1,IPTV�����Ӱ(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.89:5146
-#EXTINF:-1,�Ȳ��糡(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.106:5146
-#EXTINF:-1,IPTV�Ȳ��糡(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.90:5146
-#EXTINF:-1,�ٶ�����(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.109:5146
-#EXTINF:-1,IPTV�ٶ�����(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.91:5146
-#EXTINF:-1,IPTV����ָ��(720x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.111:5146
-#EXTINF:-1,EBU(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.165:5146
-#EXTINF:-1,PPTV-1(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.183:5146
-#EXTINF:-1,PPTV-2(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.184:5146
-#EXTINF:-1,Unknown(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.119:5146
-#EXTINF:-1,����ͬ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.234:5146
-#EXTINF:-1,����ͬ��(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.77.1.107:5146
-#EXTINF:-1,�㶫IPTV���(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.232:5146
-#EXTINF:-1,�㶫IPTV���(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.233:5146
-#EXTINF:-1,�㶫IPTV���(768x576)
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="纪实",求索纪录高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.241:5146
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="纪实",求索生活高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.153:5146
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="纪实",求索科学高清
 http://lsk.dscloud.biz:8225/rtp/239.77.0.240:5146
-#EXTINF:-1,����ͨ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.119:5146
-#EXTINF:-1,����ͨ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.118:5146
-#EXTINF:-1,����ͨ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.117:5146
-#EXTINF:-1,����ͨ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.116:5146
-#EXTINF:-1,����ͨ(1920x1080)
-http://lsk.dscloud.biz:8225/rtp/239.253.43.115:5146
-#EXTINF:-1,�㶫IPTVӰ���Ƽ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.185:5146
-#EXTINF:-1,�㶫IPTVӰ���Ƽ�(768x576)
-http://lsk.dscloud.biz:8225/rtp/239.77.0.186:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中华美食高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.200:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育
+http://lsk.dscloud.biz:8225/rtp/239.77.0.83:5146
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+http://lsk.dscloud.biz:8225/rtp/239.77.0.113:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
+http://lsk.dscloud.biz:8225/rtp/239.77.1.143:5146
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="纪实",茶频道
+http://lsk.dscloud.biz:8225/rtp/239.77.1.207:5146
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="纪实",快乐垂钓高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.119:5146
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪实",冬奥纪实高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.110:5146
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪实",金鹰纪实高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.162:5146
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实",上海纪实高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.216:5146
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
+http://lsk.dscloud.biz:8225/rtp/239.77.0.224:5146
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
+http://lsk.dscloud.biz:8225/rtp/239.77.1.115:5146
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.png" group-title="地方",DOXTV
+http://lsk.dscloud.biz:8225/rtp/239.77.1.155:5146
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方",优优宝贝
+http://lsk.dscloud.biz:8225/rtp/239.77.1.193:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中华特产
+http://lsk.dscloud.biz:8225/rtp/239.77.1.204:5146
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="纪实",四海钓鱼
+http://lsk.dscloud.biz:8225/rtp/239.77.1.137:5146
+#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="纪实",环球旅游
+http://lsk.dscloud.biz:8225/rtp/239.77.1.202:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",生态环境
+http://lsk.dscloud.biz:8225/rtp/239.77.1.201:5146
+#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="纪实",车迷频道
+http://lsk.dscloud.biz:8225/rtp/239.77.1.203:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",loupe
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",Clarity
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",广州综合高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="广东",广州影视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州法治高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="广东",广州竞赛高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="广东",深圳电视剧频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.xyz/logo/深圳财经生活.png" group-title="广东",深圳财经生活高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="https://epg.112114.xyz/logo/深圳娱乐.png" group-title="广东",深圳娱乐频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="广东",深圳体育健康高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.128:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" group-title="广东",深圳少儿频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳宝安" tvg-logo="https://epg.112114.xyz/logo/深圳宝安.png" group-title="广东",深圳宝安频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="https://epg.112114.xyz/logo/深圳龙岗.png" group-title="广东",深圳龙岗频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳东部" tvg-logo="https://epg.112114.xyz/logo/深圳东部.png" group-title="广东",深圳东部频道高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.224:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.xyz/logo/深圳众创TV.png" group-title="广东",深圳众创TV高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.247:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韶关综合高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.117:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韶关公共高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.119:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湛江公共高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.140:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湛江高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.141:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",揭阳综合高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",揭阳公共高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.251:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江门综合高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.201:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江门公共高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.202:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江门教育高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.203:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕尾1高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕尾2高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.187:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海-1高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.155:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海-2高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.154:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",肇庆综合高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.1:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",肇庆公共高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.2:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河源综合高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河源公共高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.214:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头综合高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头经济生活高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头文旅体育高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.132:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清远新闻综合高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.33:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清远公共高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.34:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云浮综合高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云浮公共高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",茂名综合高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",茂名公共高清
+http://lsk.dscloud.biz:8225/rtp/239.77.0.207:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛山综合高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛山公共高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛山影视高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.56:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛山顺德高清
+http://lsk.dscloud.biz:8225/rtp/239.253.43.55:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HZTV-1高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.232:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HZTV-2高清
+http://lsk.dscloud.biz:8225/rtp/239.77.1.233:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="北京卫视"tvg-logo="" group-title="北京",BRTV北京卫视[高清]
+http://124.65.3.143:20000/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-name="BTV新闻"tvg-logo="" group-title="北京",BRTV新闻[高清]
+http://124.65.3.143:20000/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV影视"tvg-logo="" group-title="北京",BRTV影视[高清]
+http://124.65.3.143:20000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV文艺"tvg-logo="" group-title="北京",BRTV文艺[高清]
+http://124.65.3.143:20000/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV财经"tvg-logo="" group-title="北京",BRTV财经[高清]
+http://124.65.3.143:20000/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活"tvg-logo="" group-title="北京",BRTV生活[高清]
+http://124.65.3.143:20000/rtp/239.3.1.117:8000
+# #EXTINF:-1 tvg-name="BTV青年"tvg-logo="" group-title="北京",BRTV青年[高清]
+http://124.65.3.143:20000/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="4K超清"tvg-logo="" group-title="北京",4K超清[超清]
+http://124.65.3.143:20000/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="淘电影"tvg-logo="" group-title="北京",淘电影[高清]
+http://124.65.3.143:20000/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="淘剧场"tvg-logo="" group-title="北京",淘剧场[高清]
+http://124.65.3.143:20000/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-name="淘娱乐"tvg-logo="" group-title="北京",淘娱乐[高清]
+http://124.65.3.143:20000/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="淘Baby"tvg-logo="" group-title="北京",淘Baby[高清]
+http://124.65.3.143:20000/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-name="萌宠TV"tvg-logo="" group-title="北京",萌宠TV[高清]
+http://124.65.3.143:20000/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-name="爱上4K"tvg-logo="" group-title="北京",爱上4K[超清]
+http://124.65.3.143:20000/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="BestTV 4K"tvg-logo="" group-title="4K",BestTV 4K
+http://116.232.113.69:4022/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-name="欢笑剧场 4K"tvg-logo="" group-title="4K",欢笑剧场 4K
+http://116.232.113.69:4022/udp/239.45.1.4:5140
+#EXTINF:-1 tvg-name="BestTV 1 4K"tvg-logo="" group-title="4K",BestTV 1 4K
+http://116.232.113.69:4022/udp/239.45.1.11:5140
+#EXTINF:-1 tvg-name="BestTV 2 4K"tvg-logo="" group-title="4K",BestTV 2 4K
+http://116.232.113.69:4022/udp/239.45.1.108:5140
+#EXTINF:-1 tvg-name="BestTV 2 4K"tvg-logo="" group-title="4K",BestTV 3 4K
+http://116.232.113.69:4022/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-name="凤凰中文"tvg-logo="" group-title="凤凰",凤凰中文
+http://183.144.80.224:8888/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="" group-title="凤凰",凤凰资讯
+http://183.144.80.224:8888/rtp/233.50.200.192:5140
+#EXTINF:-1 tvg-name="CCTV8K"tvg-logo="" group-title="4K",CCTV8K
+http://lsk.dscloud.biz:8225/rtp/239.253.43.106:5146
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="广东",广东综艺 4k
+http://lsk.dscloud.biz:8225/rtp/239.77.0.252:5146
