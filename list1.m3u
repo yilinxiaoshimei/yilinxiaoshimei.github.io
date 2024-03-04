@@ -22,7 +22,7 @@ http://192.168.31.1:8225/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://192.168.31.1:8225/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="广东",广东综艺 4k
-http://192.168.31.1:8225/rtp/239.77.0.245:5146
+http://192.168.31.1:8225/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东",南国都市
 http://192.168.31.1:8225/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
